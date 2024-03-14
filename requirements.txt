@@ -5,3 +5,4 @@ robotframework-appiumlibrary==2.0.0
 robotframework-browser==17.5.2
 robotframework-jsonlibrary==0.5
 robotframework-requests==0.9.6
+python_dotenv==1.0.1
