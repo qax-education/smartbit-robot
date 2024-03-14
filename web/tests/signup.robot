@@ -8,7 +8,6 @@ Test Teardown     Take Screenshot
 
 *** Test Cases ***
 Deve iniciar o cadastro do cliente
-    [Tags]    smoke
 
     ${account}     Create Dictionary
     ...        name=Papito Fernando
